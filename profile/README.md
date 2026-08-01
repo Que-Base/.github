@@ -15,7 +15,6 @@
 | Repository | Tech Stack | Status | Description |
 |---|---|---|---|
 | **[matchme_stellar](https://github.com/Que-Base/matchme_stellar)** | `SwiftUI` `Stellar` `Firebase` | 🟢 Active | Non-custodial social networking mobile app with Stellar wallet & `MATCH` token economy |
-| **[vatix-contract](https://github.com/Vatix-Protocol/vatix-contract)** | `Rust` `Soroban` `TypeScript` | 🟢 Active | Soroban smart contracts protocol for prediction markets and decentralized escrow |
 
 ---
 
