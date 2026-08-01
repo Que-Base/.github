@@ -1,12 +1,46 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  ### 📄 Organization Profile README Preview
+  
+    # Que-Base
+  
+    > Building next-generation decentralized mobile applications and blockchain infrastructure on Stellar.
+  
+    ---
+  
+    ### 🚀 About Us
+  
+    **Que-Base** develops open-source mobile applications, decentralized identity systems, and smart contract protocols. Our flagship ecosystem combines modern mobile UX (SwiftUI, Firebase) with  
+  non-custodial Stellar blockchain architecture.
+  
+    ---
+  
+    ### 📦 Key Repositories
+  
+    | Repository | Tech Stack | Status | Description |
+    |---|---|---|---|
+    | **[matchme_stellar](https://github.com/Que-Base/matchme_stellar)** | `SwiftUI` `Stellar` `Firebase` | 🟢 Active | Non-custodial social networking mobile app with Stellar wallet & `MATCH`    
+  token economy |
+    | **[vatix-contract](https://github.com/Vatix-Protocol/vatix-contract)** | `Rust` `Soroban` `TypeScript` | 🟢 Active | Soroban smart contracts protocol for prediction markets and decentralized
+  escrow |
+  
+    ---
+  
+    ### 🛠 Technology Stack
+  
+    - **Mobile**: Swift 5.10+, SwiftUI, SwiftfulRouting
+    - **Blockchain**: Stellar Horizon SDK, Soroban Smart Contracts (Rust)
+    - **Backend & Cloud**: Firebase Auth, Cloud Firestore, Cloud Storage
+    - **DevOps**: GitHub Actions CI/CD, XCTest, Pre-commit Hooks
+  
+    ---
+  
+    ### 📚 Community & Standards
+  
+    - **[Security Policy](https://github.com/Que-Base/matchme_stellar/blob/main/SECURITY.md)** — Non-custodial key safety & vulnerability reporting.
+    - **[Contributing Guide](https://github.com/Que-Base/matchme_stellar/blob/main/CONTRIBUTING.md)** — Repository conventions and PR guidelines.
+    - **License**: All core repositories are licensed under the [MIT License](https://github.com/Que-Base/matchme_stellar/blob/main/LICENSE).
+  
+    ---
+  
+    <p align="center">
+      <sub>© 2026 Que-Base. Built for the Stellar Ecosystem.</sub>
+    </p>
